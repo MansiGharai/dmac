@@ -14,9 +14,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![DMAC Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -40,9 +37,6 @@ Windows:
 git clone https://github.com/MansiGharai/dmac.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
